@@ -1,2 +1,2 @@
-## cv
-### https://phalkimheng.github.io/cv/
+## CV
+https://phalkimheng.github.io/cv/
